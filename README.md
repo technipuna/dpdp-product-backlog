@@ -1,2 +1,1 @@
-# dpdp-product-backlog
-dpdp-product-backlog
+# DPDP Product Backlog
